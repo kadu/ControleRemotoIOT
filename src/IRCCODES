@@ -1,0 +1,110 @@
+ON
+uint32_t address = 0xEF00;
+uint32_t command = 0x3;
+uint64_t data = 0xF7C03F;
+
+off
+uint32_t address = 0xEF00;
+uint32_t command = 0x2;
+uint64_t data = 0xF740BF;
+
++brilho
+uint32_t address = 0xEF00;
+uint32_t command = 0x0;
+uint64_t data = 0xF700FF;
+
+-brilho
+uint32_t address = 0xEF00;
+uint32_t command = 0x1;
+uint64_t data = 0xF7807F;
+
+branco
+uint32_t address = 0xEF00;
+uint32_t command = 0x7;
+uint64_t data = 0xF7E01F;
+
+R
+uint32_t address = 0xEF00;
+uint32_t command = 0xC;
+uint64_t data = 0xF730CF;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x8;
+uint64_t data = 0xF710EF;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0xC;
+uint64_t data = 0xF730CF;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x10;
+uint64_t data = 0xF708F7;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x14;
+uint64_t data = 0xF728D7;
+
+G
+uint32_t address = 0xEF00;
+uint32_t command = 0x5;
+uint64_t data = 0xF7A05F;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x9;
+uint64_t data = 0xF7906F;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0xD;
+uint64_t data = 0xF7B04F;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x11;
+uint64_t data = 0xF78877;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x15;
+uint64_t data = 0xF7A857;
+
+B
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x6;
+uint64_t data = 0xF7609F;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0xA;
+uint64_t data = 0xF750AF;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0xE;
+uint64_t data = 0xF7708F;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x12;
+uint64_t data = 0xF748B7;
+
+uint32_t address = 0xEF00;
+uint32_t command = 0x16;
+uint64_t data = 0xF76897;
+
+flash
+uint32_t address = 0xEF00;
+uint32_t command = 0xB;
+uint64_t data = 0xF7D02F;
+
+strobe
+uint32_t address = 0xEF00;
+uint32_t command = 0xB;
+uint64_t data = 0xF7D02F;
+
+
+fade
+uint32_t address = 0xEF00;
+uint32_t command = 0x13;
+uint64_t data = 0xF7C837;
+
+
+smooth
+uint32_t address = 0xEF00;
+uint32_t command = 0x17;
+uint64_t data = 0xF7E817;
